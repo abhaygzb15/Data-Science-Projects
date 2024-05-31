@@ -49,8 +49,3 @@ if st.button("Predict"):
     output_labels = {1: "The passenger will Survive.",
                      0: "The passenger will not survive."}
     st.markdown(f"## {output_labels[result[0]]}")
-
-
-
-
-
