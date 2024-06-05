@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec57ca4-ea5e-4691-8667-9f23e8d941c6" name="Changes" comment="" />
+    <list default="true" id="7ec57ca4-ea5e-4691-8667-9f23e8d941c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Iris_Flower_Classification/Iris_Flower_Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iris_Flower_Classification/Iris_Flower_Classification.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ABHAY/Desktop/DataSc/Internship/Encryptix/Task1_Titanic_Survival/Titanic_Web_App"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ABHAY/Desktop/DataSc/Internship/Encryptix/Task1_Titanic_Survival/Titanic_Web_App&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
