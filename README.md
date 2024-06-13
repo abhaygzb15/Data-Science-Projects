@@ -73,3 +73,29 @@ The project utilizes the Iris dataset from Kaggle https://www.kaggle.com/dataset
 5) Interact with the web interface to input sepal and petal dimensions and get predictions about the species of the iris flower.
 
 
+
+# Credit Card Fraud Detection
+
+## About
+TThe Credit Card Fraud Detection project aims to develop a machine learning model capable of accurately detecting fraudulent credit card transactions, thereby reducing financial losses and enhancing security for users. Leveraging data science techniques, we analyze a dataset of credit card transactions to identify patterns indicative of fraud. This project underscores the importance of data-driven insights in combating financial fraud and showcases the efficacy of predictive modeling in safeguarding financial transactions.
+The project utilizes the Titanic dataset from Kaggle https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Features
+1. Comprehensive Data Analysis: Explore the credit card transactions dataset to understand transaction patterns and fraud indicators, including data preprocessing and handling missing values.
+2. Model Training: Utilize machine learning algorithms such as Logistic Regression to train predictive models on historical transaction data, focusing on key features like transaction amount, time, and merchant information.
+3. Model Evaluation: Assess model performance using metrics such as accuracy, precision, recall, and F1-score to measure the effectiveness of fraud detection.
+4. Model Serialization: Serialize trained models into PKL files for easy deployment, preserving the model’s architecture and parameters for consistent performance.
+
+## Technologies Used
+- Python
+- scikit-learn
+- Logistic Regression
+- NumPy
+- Pandas
+- pickle
+
+## Usage
+1) Clone the Repository: Clone this repository to your local machine using the following command:
+git clone https://github.com/abhaygzb15/Encryptix.git
+2) Explore the Jupyter Notebook: Explore the Jupyter Notebook Credit_Card_Fraud_Detection.ipynb to understand the project workflow, including data analysis, model training, and evaluation.
+
