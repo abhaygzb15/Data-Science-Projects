@@ -47,6 +47,7 @@ The project utilizes the Titanic dataset from Kaggle https://www.kaggle.com/data
 
 # About
 The Iris Flower Classification project aims to classify iris flowers into different species based on their sepal and petal measurements. Iris classification is a classic machine learning problem where we train a model to identify the species of iris flowers based on a dataset containing the dimensions of sepal length, sepal width, petal length, and petal width. There are three species of iris flowers: Iris-setosa, Iris-versicolor, and Iris-virginica. Leveraging data science techniques, we perform data analysis, preprocessing, and model training to build accurate predictive models.
+The project utilizes the Iris dataset from Kaggle https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 # Features
 1. Comprehensive Data Analysis: Explore the Iris dataset to understand flower characteristics and species distribution, including data cleaning and handling missing values.
