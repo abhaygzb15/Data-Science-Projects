@@ -8,6 +8,8 @@ Explore our collection of data science projects! This repository features three 
 3. Credit Card Fraud Detection
 
 # Titanic Survival Prediction
+![UI](https://github.com/abhaygzb15/Encryptix/assets/121966946/f18c00d9-1a09-4713-a7d3-2a7c807c5d0f)
+
 # About
 The Titanic Survival Prediction project aims to predict the likelihood of passenger survival from the RMS Titanic disaster of 1912, a tragedy that claimed over 1,500 lives. By analyzing historical passenger data, we uncover patterns and correlations that reveal who was more likely to survive and why. Leveraging data science techniques, we perform data analysis, preprocessing, and machine learning to build accurate predictive models. This project highlights the importance of data-driven insights in understanding historical events and demonstrates the power of predictive modeling in real-world scenarios.
 The project utilizes the Titanic dataset from Kaggle https://www.kaggle.com/datasets/yasserh/titanic-dataset
